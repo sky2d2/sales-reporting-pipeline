@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Ignore generated Excel reports
+summary.xlsx
+top_sales.xlsx
+
+# Ignore log files
+*.log
+
